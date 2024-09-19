@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title Picker",
+    "version": "1.0",
+    "description": "Displays the title of the current tab when the button is clicked.",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "./images/16px.png",
+        "32": "./images/32.png",
+        "48": "./images/48.png"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ]
+}

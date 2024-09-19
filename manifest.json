@@ -12,7 +12,6 @@
         "48": "./images/48.png"
     },
     "permissions": [
-        "activeTab",
-        "tabs"
+        "activeTab"
     ]
 }
